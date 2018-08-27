@@ -2,4 +2,4 @@
 Portfolio
 Yo what's up?
 
-[Contribution guidelines for this project](docs/text_analyzer.py)
+[Contribution guidelines for this project](text_analyzer.py)
