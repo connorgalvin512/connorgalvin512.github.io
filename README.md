@@ -4,7 +4,9 @@
 Yo what's up?
 Balls
 
-# # Text Analyzer
+## Text Analyzer
+
+**Text Analyzer**
 
 [Contribution guidelines for this project](text_analyzer.py)
 
