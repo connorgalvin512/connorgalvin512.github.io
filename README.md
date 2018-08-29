@@ -1,8 +1,6 @@
-# Connor Galvin Portfolio
+# Machine Learning Portfolio - Connor Galvin
 
-
-Yo what's up?
-Balls
+This portfolio contains the code, datasets, and analysis of several projects that I have worked on for school and in my own free time.
 
 ## Text Analyzer
 
