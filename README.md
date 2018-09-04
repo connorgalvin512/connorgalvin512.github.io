@@ -2,7 +2,7 @@
 
 This portfolio contains the code, datasets, and analysis of several projects that I have worked on for school and in my own free time.
 
-## Text Analyzer
+## Sentiment Analysis on Amazon reviews
 
 **Text Analyzer**
 
