@@ -8,13 +8,13 @@ This is my final project for EECE 5644, Machine Learning and Pattern Recognition
 
 My model experiments with different machine learning algorithms (Naive Bayes, K-Nearest Neighbors, Linear SVC, and SGD). I also tested different methods for feature extraction and vectorization of the text of each review. 
 
-[Dataset]():
+[Dataset]()
 
-Python Code:
+[Python Code]()
 
-Written Report:
+[Written Report]()
 
-Powerpoint Presentation:
+[Powerpoint Presentation](galvin-sentiment-analysis-ppt.pptx)
 
 
 [Contribution guidelines for this project](text_analyzer.py)
