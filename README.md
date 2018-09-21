@@ -29,7 +29,7 @@ Then, k random centroids are selected and placed somewhere on the range of data.
  The mean of every datapoint assigned in each centroid is calculated. Each of the Centroids are then moved to  these new means. 
 The process repeats, with each datapoint being assigned to the nearest centroid. The centroids are moved to the new mean. This process continues until the datapoints are stable and stop moving between centroids. After stability has occurred, the set of points belonging to each centroid are named clusters.  
 
-[Jupyter Notebook](k_means.ipynb)
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/connorgalvin512/connorgalvin512.github.io/blob/master/k_means.ipynb)
 
 
 https://connorgalvin512.github.io/
