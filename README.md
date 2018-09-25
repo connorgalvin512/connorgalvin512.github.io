@@ -26,7 +26,8 @@ This code
 This code manually implements the steps that are used in K-means clustering. Instead of using the built in sklearn function for k-means, I have coded the mathematical steps behind the  algorithm. I tested the algorithm on the Iris dataset.
 
 
-[Description of K-means Algorithm]()
+[Description of K-means Algorithm](k_means_description.pdf)
+
 [Jupyter Notebook](https://nbviewer.jupyter.org/github/connorgalvin512/connorgalvin512.github.io/blob/master/k_means.ipynb)
 
 
