@@ -16,7 +16,7 @@ My model experiments with different machine learning algorithms (Naive Bayes, K-
 
 [Powerpoint Presentation](galvin-sentiment-analysis-ppt.pptx)
 
-## Classification of points on a normal distribution using a discrimination function
+## Discrimination function classification for normal distributions
 
 This code 
 
