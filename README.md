@@ -21,6 +21,7 @@ My model experiments with different machine learning algorithms (Naive Bayes, K-
 This code plots points from two multivariate (in this case n=2) normal distributions in the same feature space. Then, I use a discriminant equation to assign each point to one of two classes, and draw the decision boundary between the classes. 
 
 [Jupyter Notebook](https://nbviewer.jupyter.org/github/connorgalvin512/connorgalvin512.github.io/blob/master/normal_distribution_calssification.ipynb)
+
 [Description of Discriminant Function](discriminant_description.pdf)
 
 
