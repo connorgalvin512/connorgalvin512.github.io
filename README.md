@@ -20,6 +20,7 @@ My model experiments with different machine learning algorithms (Naive Bayes, K-
 
 This code 
 
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/connorgalvin512/connorgalvin512.github.io/blob/master/normal_distribution_calssification.ipynb)
 
 ## Manual implementation of K-means clustering 
 
