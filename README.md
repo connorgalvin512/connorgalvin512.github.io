@@ -1,6 +1,6 @@
-# Select Works - Connor Galvin
+# Works & Projects - Connor Galvin
 
-This portfolio contains the code, datasets, and analysis of several projects that I have worked on for school and in my own free time.
+This page contains the code, datasets, and analysis of several projects that I have worked on for school and in my own free time.
 
 ## Sentiment Analysis on Amazon reviews
 
