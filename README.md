@@ -1,4 +1,4 @@
-# Machine Learning Portfolio - Connor Galvin
+# Select Works - Connor Galvin
 
 This portfolio contains the code, datasets, and analysis of several projects that I have worked on for school and in my own free time.
 
