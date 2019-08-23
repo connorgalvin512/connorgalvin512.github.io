@@ -9,7 +9,7 @@ This is my final project for EECE 5644, Machine Learning and Pattern Recognition
 
 [Report](final_report_galvin_joseph.pdf)
 
-[Powerpoint](galvin_joseph_project_final_ppt.ppt)
+[Powerpoint](galvin_joseph_project_final_ppt.pptx)
 
 [Final Code](main.py)
 
