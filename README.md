@@ -7,6 +7,13 @@ This page contains the code, datasets, and analysis of several projects that I h
 This is my final project for EECE 5644, Machine Learning and Pattern Recognition, which I completed Spring 2018 at Northeastern University. I built a sentiment analysis model that predicts the star value of a product review on Amazon given the text of the review. The dataset, which I found on Kaggle, contains 100,000 written product reviews and their star ratings. 
 
 
+[Report](amazon_reviews.csv)
+
+[Powerpoint](Sentiment-Model.py)
+
+[Final Code](galvin-setiment-analysis-report.pdf)
+
+
 ## Sentiment Analysis on Amazon reviews
 
 This is my final project for EECE 5644, Machine Learning and Pattern Recognition, which I completed Spring 2018 at Northeastern University. I built a sentiment analysis model that predicts the star value of a product review on Amazon given the text of the review. The dataset, which I found on Kaggle, contains 100,000 written product reviews and their star ratings. 
