@@ -2,6 +2,16 @@
 
 This page contains the code, datasets, and analysis of several projects that I have worked on for school and in my own free time.
 
+
+## Thesis - Designing a stability metric for assessing the robustness of anomaly rankings
+
+
+## Computer Vision- Demonstration Video
+
+
+## Computer Vision- Deep learning models
+
+
 ## Traffic Tracking using Computer Vision
 
 This is my project for Applied Mathematics Capstone, completed Spring 2019 at Northeastern University. My partner and I experimented with object detection and tracking to count the number of cars passing in either direction of a two way road.  
@@ -28,25 +38,6 @@ My model experiments with different machine learning algorithms (Naive Bayes, K-
 [Written Report](galvin-setiment-analysis-report.pdf)
 
 [Powerpoint Presentation](galvin-sentiment-analysis-ppt.pptx)
-
-## Discrinant function classification for multivariate normal distributions
-
-This code plots points from two multivariate (in this case n=2) normal distributions in the same feature space. Then, I use a discriminant equation to assign each point to one of two classes, and draw the decision boundary between the classes. 
-
-[Jupyter Notebook](https://nbviewer.jupyter.org/github/connorgalvin512/connorgalvin512.github.io/blob/master/normal_distribution_calssification.ipynb)
-
-[Description of Discriminant Function](discriminant_description.pdf)
-
-
-
-## Manual implementation of K-means clustering 
-
-This code manually implements the steps that are used in K-means clustering. Instead of using the built in sklearn function for k-means, I have coded the mathematical steps behind the  algorithm. I tested the algorithm on the Iris dataset.
-
-
-[Description of K-means Algorithm](k_means_explanation.pdf)
-
-[Jupyter Notebook](https://nbviewer.jupyter.org/github/connorgalvin512/connorgalvin512.github.io/blob/master/k_means.ipynb)
 
 
 https://connorgalvin512.github.io/
