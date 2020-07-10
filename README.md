@@ -8,8 +8,15 @@ This page contains the code, datasets, and analysis of several projects that I h
 
 ## Computer Vision- Demonstration Video
 
+Demonstration of computer vision techniques including object detection and tracking. Implemented with Python OpenCV. 
+
+[Video](cv_demonstration.mp4)
+
+Code avaialble upon request
+
 
 ## Computer Vision- Deep learning models
+
 
 
 ## Traffic Tracking using Computer Vision
