@@ -11,7 +11,9 @@ Paper
 
 Presentation
 
-Code
+[Code](thesis_code.zip)
+
+[Datasets](Datasets.zip)
 
 
 ## Computer Vision- Deep learning models
