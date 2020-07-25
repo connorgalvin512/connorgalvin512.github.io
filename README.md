@@ -5,7 +5,7 @@ This page contains the code, datasets, and analysis of several projects that I h
 
 ## Thesis - Designing a stability metric for assessing the robustness of anomaly rankings
 
-Master's thesis completed over the 2019-2020 academic year at KU Leuven. 
+Master's thesis completed over the 2019-2020 academic year at KU Leuven. An abridged version has been accepted as a submission to the ECML PKDD conference set to held in September 2020. 
 
 [Paper](thesis_final.pdf)
 
