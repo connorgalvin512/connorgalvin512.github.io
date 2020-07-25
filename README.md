@@ -9,7 +9,7 @@ Master's thesis completed over the 2019-2020 academic year at KU Leuven.
 
 Paper
 
-Presentation
+[Presentation](galvin_thesis_presentation.pdf)
 
 [Code](thesis_code.zip)
 
