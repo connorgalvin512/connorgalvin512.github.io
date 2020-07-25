@@ -7,7 +7,7 @@ This page contains the code, datasets, and analysis of several projects that I h
 
 Master's thesis completed over the 2019-2020 academic year at KU Leuven. 
 
-Paper
+[Paper](thesis_final.pdf)
 
 [Presentation](galvin_thesis_presentation.pdf)
 
@@ -20,7 +20,7 @@ Paper
 
 Final Project for course "Computer Vision" Spring 2020 at KU Leuven. In this project I experiment with deep learning for image classification in Tensorflow and Keras. Additionally I demonstrate how one could use an encoder-decoder network to "fool" a deep learning classifier. 
 
-https://colab.research.google.com/drive/1XZnIRqC1C8sctOObvrjqvgPmFW3o0fDl?usp=sharing
+[Code](https://colab.research.google.com/drive/1XZnIRqC1C8sctOObvrjqvgPmFW3o0fDl?usp=sharing)
 
 
 ## Computer Vision- Demonstration Video
