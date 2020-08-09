@@ -59,5 +59,3 @@ My model experiments with different machine learning algorithms (Naive Bayes, K-
 
 [Powerpoint Presentation](galvin-sentiment-analysis-ppt.pptx)
 
-
-https://connorgalvin512.github.io/
